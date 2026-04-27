@@ -1,1 +1,2 @@
-label = tk.Label(self.main_window, text = 'Programming is fun!')
+self.label1.pack(side='left')
+self.label2.pack(side='left')
